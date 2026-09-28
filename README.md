@@ -1,4 +1,4 @@
-##NPSAS Student Parents & Financial Wellness
+# NPSAS Student Parents & Financial Wellness
 
 #### This repository contains data analysis and data visualizations examining the financial experiences of undergraduate student parents using data from the 2020 National Postsecondary Student Aid Study.
 
