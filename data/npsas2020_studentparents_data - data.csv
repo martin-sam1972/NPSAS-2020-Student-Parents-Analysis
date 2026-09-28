@@ -1,0 +1,45 @@
+measure,variable,category,has_dependent_children,percent,standard_error_pp,ci95_lower_percent,ci95_upper_percent,source_file
+"Financial security: $2,000 within the next month",FIN2000,"Certainly could come up with the $2,000",No,28.309421,0.265379,27.790000,28.830000,"2,000 by Next Month.xlsx"
+"Financial security: $2,000 within the next month",FIN2000,"Probably could come up with the $2,000",No,28.428216,0.274360,27.890000,28.970000,"2,000 by Next Month.xlsx"
+"Financial security: $2,000 within the next month",FIN2000,"Probably could not come up with the $2,000",No,23.244073,0.227516,22.800000,23.690000,"2,000 by Next Month.xlsx"
+"Financial security: $2,000 within the next month",FIN2000,"Certainly could not come up with the $2,000",No,20.018290,0.256137,19.520000,20.520000,"2,000 by Next Month.xlsx"
+"Financial security: $2,000 within the next month",FIN2000,"Certainly could come up with the $2,000",Yes,21.888339,0.656006,20.600000,23.170000,"2,000 by Next Month.xlsx"
+"Financial security: $2,000 within the next month",FIN2000,"Probably could come up with the $2,000",Yes,23.686460,0.595169,22.520000,24.850000,"2,000 by Next Month.xlsx"
+"Financial security: $2,000 within the next month",FIN2000,"Probably could not come up with the $2,000",Yes,22.187468,0.676590,20.860000,23.510000,"2,000 by Next Month.xlsx"
+"Financial security: $2,000 within the next month",FIN2000,"Certainly could not come up with the $2,000",Yes,32.237732,0.652695,30.960000,33.520000,"2,000 by Next Month.xlsx"
+Financial security: $500 within the next month,FIN500,Certainly could come up with the $500,No,55.480760,0.291978,54.910000,56.050000,500 by Next Month.xlsx
+Financial security: $500 within the next month,FIN500,Probably could come up with the $500,No,28.066093,0.277151,27.520000,28.610000,500 by Next Month.xlsx
+Financial security: $500 within the next month,FIN500,Probably could not come up with the $500,No,9.577632,0.161971,9.260000,9.900000,500 by Next Month.xlsx
+Financial security: $500 within the next month,FIN500,Certainly could not come up with the $500,No,6.875515,0.161695,6.560000,7.190000,500 by Next Month.xlsx
+Financial security: $500 within the next month,FIN500,Certainly could come up with the $500,Yes,42.658472,0.784063,41.120000,44.200000,500 by Next Month.xlsx
+Financial security: $500 within the next month,FIN500,Probably could come up with the $500,Yes,29.561317,0.675387,28.240000,30.890000,500 by Next Month.xlsx
+Financial security: $500 within the next month,FIN500,Probably could not come up with the $500,Yes,13.077021,0.476376,12.140000,14.010000,500 by Next Month.xlsx
+Financial security: $500 within the next month,FIN500,Certainly could not come up with the $500,Yes,14.703191,0.444366,13.830000,15.570000,500 by Next Month.xlsx
+Received federal benefit: Any,FEDBEN,No,No,64.101835,0.282104,63.550000,64.650000,AnyBenefits.xlsx
+Received federal benefit: Any,FEDBEN,Yes,No,35.898165,0.282104,35.350000,36.450000,AnyBenefits.xlsx
+Received federal benefit: Any,FEDBEN,No,Yes,40.838894,0.794319,39.280000,42.400000,AnyBenefits.xlsx
+Received federal benefit: Any,FEDBEN,Yes,Yes,59.161106,0.794319,57.600000,60.720000,AnyBenefits.xlsx
+Received federal benefit: Food Stamp Benefit,FEDBENA,No,No,90.558862,0.178517,90.210000,90.910000,Food Stamps.xlsx
+Received federal benefit: Food Stamp Benefit,FEDBENA,Yes,No,9.441138,0.178517,9.090000,9.790000,Food Stamps.xlsx
+Received federal benefit: Food Stamp Benefit,FEDBENA,No,Yes,69.940553,0.781758,68.410000,71.470000,Food Stamps.xlsx
+Received federal benefit: Food Stamp Benefit,FEDBENA,Yes,Yes,30.059447,0.781758,28.530000,31.590000,Food Stamps.xlsx
+Food security status: previous 30 days,FOODSEC,Food Secure,No,78.840518,0.234127,78.380000,79.300000,FoodSecurity.xlsx
+Food security status: previous 30 days,FOODSEC,Food Insecure,No,21.159482,0.234127,20.700000,21.620000,FoodSecurity.xlsx
+Food security status: previous 30 days,FOODSEC,Food Secure,Yes,71.273623,0.769723,69.760000,72.780000,FoodSecurity.xlsx
+Food security status: previous 30 days,FOODSEC,Food Insecure,Yes,28.726377,0.769723,27.220000,30.240000,FoodSecurity.xlsx
+Received federal benefit: Free or Reduced Price School Lunch Benefits,FEDBENB,No,No,75.817565,0.208491,75.410000,76.230000,Free & Reduced Lunch.xlsx
+Received federal benefit: Free or Reduced Price School Lunch Benefits,FEDBENB,Yes,No,24.182435,0.208491,23.770000,24.590000,Free & Reduced Lunch.xlsx
+Received federal benefit: Free or Reduced Price School Lunch Benefits,FEDBENB,No,Yes,64.720375,0.656891,63.430000,66.010000,Free & Reduced Lunch.xlsx
+Received federal benefit: Free or Reduced Price School Lunch Benefits,FEDBENB,Yes,Yes,35.279625,0.656891,33.990000,36.570000,Free & Reduced Lunch.xlsx
+Received federal benefit: Supplemental Security Income Benefits,FEDBENC,No,No,82.988072,0.230954,82.540000,83.440000,SSI.xlsx
+Received federal benefit: Supplemental Security Income Benefits,FEDBENC,Yes,No,17.011928,0.230954,16.560000,17.460000,SSI.xlsx
+Received federal benefit: Supplemental Security Income Benefits,FEDBENC,No,Yes,71.317784,0.763506,69.820000,72.810000,SSI.xlsx
+Received federal benefit: Supplemental Security Income Benefits,FEDBENC,Yes,Yes,28.682216,0.763506,27.190000,30.180000,SSI.xlsx
+Received federal benefit: TANF Benefits,FEDBEND,No,No,98.441814,0.077716,98.290000,98.590000,TANF.xlsx
+Received federal benefit: TANF Benefits,FEDBEND,Yes,No,1.558186,0.077716,1.410000,1.710000,TANF.xlsx
+Received federal benefit: TANF Benefits,FEDBEND,No,Yes,95.259656,0.348778,94.580000,95.940000,TANF.xlsx
+Received federal benefit: TANF Benefits,FEDBEND,Yes,Yes,4.740344,0.348778,4.060000,5.420000,TANF.xlsx
+Received federal benefit: WIC Benefits,FEDBENE,No,No,96.046897,0.130915,95.790000,96.300000,WIC.xlsx
+Received federal benefit: WIC Benefits,FEDBENE,Yes,No,3.953104,0.130915,3.700000,4.210000,WIC.xlsx
+Received federal benefit: WIC Benefits,FEDBENE,No,Yes,69.320167,0.731386,67.890000,70.750000,WIC.xlsx
+Received federal benefit: WIC Benefits,FEDBENE,Yes,Yes,30.679834,0.731386,29.250000,32.110000,WIC.xlsx
